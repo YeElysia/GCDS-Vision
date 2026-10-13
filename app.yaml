@@ -1,0 +1,15 @@
+id: gcds_vision
+name: GCDS Vision
+version: 2.0.0
+author: GCDS
+icon: ''
+desc: 任务二维码、物料颜色抓取、无颜色同心圆环对中和同色码垛视觉
+files:
+  - lab_color_detector.py
+  - main.py
+  - qr_task_reader.py
+  - ring_detector.py
+  - task_code.py
+  - touch_ui.py
+  - uart_protocol.py
+  - vision_config.py
